@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Documentos\\GitHub\\spotify_clone"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Spotify_files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Spotify-Clone-master"
+	}
+}
